@@ -1,4 +1,4 @@
 package graph;
 
-public class topo {
+public class TopoSort {
 }

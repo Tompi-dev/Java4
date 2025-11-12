@@ -1,4 +1,4 @@
 package graph;
 
-public class scc {
+public class Scc {
 }
