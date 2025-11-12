@@ -1,4 +1,3 @@
 package model;
 
-public class Edge {
-}
+public record Edge(String from, String to, double weight) { }
